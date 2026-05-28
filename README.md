@@ -10,6 +10,10 @@ https://danimacarraonachapa.com.br
 
 - HTML5
 - CSS3
+- Git
+- GitHub
+- GitHub Pages
+- Domínio Próprio
 
 ## Funcionalidades
 
